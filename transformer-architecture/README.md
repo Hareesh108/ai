@@ -45,6 +45,8 @@ It replaces recurrent models (RNNs, LSTMs) with **self-attention**, enabling mod
 
 Here’s the simplified flow (from the shared diagram):
 
+![](./architecture.png)
+
 ```
 Input → Tokenization → Embedding → Positional Encoding →
 [ Attention → Feedforward ] × N → Softmax → Output
