@@ -31,6 +31,27 @@ Here are some of the most important LLMs you can explore:
 
 ---
 
+## 🔥 Current Trends in LLMs
+
+The field of LLMs is rapidly evolving. Some of the **latest research and engineering trends** include:
+
+1. **Reasoning (RLVR, GRPO)**  
+   - *RLVR (Reinforcement Learning via Verifiable Rewards):* ensures models get rewarded for provably correct reasoning steps.  
+   - *GRPO (Generalized Reinforcement Policy Optimization):* an advanced RL method for improving structured reasoning.  
+
+2. **MoEs (Mixture of Experts)**  
+   - Models with multiple expert subnetworks, where only a subset activates per query.  
+   - Enables efficiency and scalability.  
+   - Example: *Mixtral of Experts*.  
+
+3. **Tool Use**  
+   - LLMs can call external tools (APIs, calculators, databases, code execution).  
+   - Moves LLMs from static text generators to **active AI agents**.  
+
+4. **Multi-Head Latent Attention**  
+   - Extends multi-head attention to focus on latent (hidden) representations.  
+   - Enhances reasoning depth and compression of long contexts.  
+
 ## 📚 References
 
 - [Attention Is All You Need (Vaswani et al., 2017)](https://arxiv.org/abs/1706.03762)  
