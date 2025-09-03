@@ -52,4 +52,8 @@ Input → Tokenization → Embedding → Positional Encoding →
 [ Attention → Feedforward ] × N → Softmax → Output
 ```
 
+### Added Resource
+
+For a deeper understanding of Transformers, check out this video:  
+
 <https://www.youtube.com/watch?v=KZGOrJxxIrA&ab_channel=HarkiratSingh>
