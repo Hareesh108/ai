@@ -51,3 +51,5 @@ Here’s the simplified flow (from the shared diagram):
 Input → Tokenization → Embedding → Positional Encoding →
 [ Attention → Feedforward ] × N → Softmax → Output
 ```
+
+<https://www.youtube.com/watch?v=KZGOrJxxIrA&ab_channel=HarkiratSingh>
